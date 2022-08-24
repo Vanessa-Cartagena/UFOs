@@ -10,7 +10,7 @@ Although Dana's website and dynamic table were functioning as intended, she want
 
 As you can see, the table filters by Date, City, State, Country, and Shape are now located under the "Filter Search" section.
 
-<img width="292" alt="FilterSearch" src="https://user-images.githubusercontent.com/105958160/186266450-9855c935-4366-483b-a23c-87fdff1607db.png">
+<img width="195" alt="FilterSearch" src="https://user-images.githubusercontent.com/105958160/186296574-56228516-7c48-4ae7-8bb8-ecef540ad997.png">
 
 The table on the right will refresh to display the results as soon as you enter the search criteria in the filters.
 
