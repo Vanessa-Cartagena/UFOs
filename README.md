@@ -14,7 +14,7 @@ As you can see, the table filters by Date, City, State, Country, and Shape are n
 
 The table on the right will refresh to display the results as soon as you enter the search criteria in the filters.
 
-
+<img width="1426" alt="FilteredExample" src="https://user-images.githubusercontent.com/105958160/186301184-5e73d130-e8e0-4ebe-b505-1777fc05bda8.png">
 
 ## Summary
 The website has a few drawbacks, one of which is that the filters are case-sensitive. Only lowercase search terms are permitted; otherwise, your search will not return any results. Less restrictive case sentivity would make it easier for consumers to search.
